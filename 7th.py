@@ -1,0 +1,19 @@
+# Assignment operators
+a = 3
+b = 2
+c = 0
+c = a + b
+print ("c1 = ", c)
+c += a
+print ("c2 = ", c )
+c *= a
+print ("c3 = ", c )
+c /= a
+print ("c4 = ", c )
+c = 5
+c %= a
+print ("c5 = ", c)
+c **= a
+print ("c6 = ", c)
+c //= a
+print ("c7 = ", c)
